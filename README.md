@@ -1,13 +1,13 @@
-<h1> JEP'S PROFILE 🧚‍♂️</h1>
+<h1> JEP'S PROFILE </h1>
 
-<h2> About Me </h2>
+<h2> 💡 About Me </h2>
 
   <p> 
       Hi! I'm Jefferson Ganacias. Most people call me Jeff but I prefer Jep instead, just for a bit of difference.
       'm currently figuring things out to build a fulfilling future. Typically writing my 'Once Upon A Slice of Life'.
   </p>
   
-<h2> Get To KNow Me </h2>
+<h2> 💡 Get To KNow Me </h2>
 
   <p>
       I'm  currently a junior student at West Visayas Stae University -  Main Campus, taking up a Bachelor's degree in Information Systems major in Business Applications Development.
@@ -17,15 +17,15 @@
       And one thing that keeps me living is "to achieve my purposse and be fulfilled."
   </p>
   
-<h2> Simple Facts About Me </h2>
+<h2> 💡 Simple Facts About Me </h2>
 
   <p>
       <ul>
-          <li> A "mind-reader" </li> <br>
-          <li> Yellow is the standard </li> <br>
-          <li> Born the same day my eldest brother was born. </li> <br>
-          <li> Obsess of dinosaurs and cars ever since I was a kid. </li> <br>
-          <li> Journaling and planning is a perfect habit combo for me. </li> <br>
+          <li> A "mind-reader" </li>
+          <li> Yellow is the standard </li>
+          <li> Born the same day my eldest brother was born. </li>
+          <li> Obsess of dinosaurs and cars ever since I was a kid. </li>
+          <li> Journaling and planning is a perfect habit combo for me. </li>
           <li> I read but very occasionally. </li>
       </ul>
   </p>
