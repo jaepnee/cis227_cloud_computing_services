@@ -3,11 +3,11 @@
 <h2> About Me </h2>
 
 <div >
-<img src="https://scontent.fceb2-1.fna.fbcdn.net/v/t39.30808-6/381684429_1691347238015083_6464551333504515651_n.jpg?_nc_cat=103&ccb=1-        7&_nc_sid=a5f93a&_nc_eui2=AeF9wkciO_qmzhm74zjvT8kB1kIFYyxBIePWQgVjLEEh42Q1V8lr3_2r0WN9vhdR8J8LEeqxwVKmXFB8aurVcAxR&_nc_ohc=2sWvNekZ0dIQ7kNvgEBP-5k&_nc_ht=scontent.fceb2-1.fna&oh=00_AYDMO4JcQyV6IgwSe44-c5SedK2IAzpcL93ejFlw0M4opw&oe=66D2D110" width="250" height="250">
+<img src="https://scontent.fceb2-1.fna.fbcdn.net/v/t39.30808-6/381684429_1691347238015083_6464551333504515651_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeF9wkciO_qmzhm74zjvT8kB1kIFYyxBIePWQgVjLEEh42Q1V8lr3_2r0WN9vhdR8J8LEeqxwVKmXFB8aurVcAxR&_nc_ohc=2sWvNekZ0dIQ7kNvgEBP-5k&_nc_ht=scontent.fceb2-1.fna&oh=00_AYDMO4JcQyV6IgwSe44-c5SedK2IAzpcL93ejFlw0M4opw&oe=66D2D110" width="250" height="250">
 </div>
 
   <p> 
-      Hi! I'm Jefferson Ganacias. Most people call me Jeff but I prefer Jep instead, just for a bit of difference.
+      Hi! I'm Jefferson Ganacias. Most people call me Jeff but I prefer Jep instead, just for a bit of difference. <br>
       I'm currently figuring things out to build a fulfilling future. Typically writing my 'Once Upon A Slice of Life'. 🙌🏻
   </p>
   
@@ -33,3 +33,13 @@
           <li> I read but very occasionally. 📙 </li>
       </ul>
   </p>
+
+<h2> Platform Stats </h2>
+
+  ![jaepnees](https://github-readme-stats.vercel.app/api?username=jaepnee&show_icons=true&theme=gruvbox)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
+
+<h2> Links </h2>
+
+  
+
