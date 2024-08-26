@@ -40,6 +40,12 @@
   ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
 
 <h2> Links </h2>
+   <ul>
+     <li>
+      <a href="https://linktr.ee/jaepnee?fbclid=IwY2xjawE57_xleHRuA2FlbQIxMAABHfmOnDsL59p-PsG2vEnxZLSY2f8Hi9Wn7hwACD-5tJ5-VZSQs7MoK1jMdA_aem_RLYxho6Ad2c5XdNkggl2ww"> My Linktree 
+    📱</a>
+     </li>
+   <ul>
 
   
 
