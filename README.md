@@ -1,19 +1,21 @@
 <h1> JEP'S PROFILE 🧚🏻‍♂️ </h1>
 
-<img src="https://images.pexels.com/photos/247600/pexels-photo-247600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="1500" height="330">
+<div>
+    <img src="https://www.pexels.com/photo/different-species-of-dinosaur-plastic-toy-on-a-white-surface-8014600/" width="250" height="250">
+</div>
+   
+<h2> [ About Me ] </h2>
 
-<h2> About Me </h2>
-
-<div >
-<img src="https://scontent.fceb2-1.fna.fbcdn.net/v/t39.30808-6/381684429_1691347238015083_6464551333504515651_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeF9wkciO_qmzhm74zjvT8kB1kIFYyxBIePWQgVjLEEh42Q1V8lr3_2r0WN9vhdR8J8LEeqxwVKmXFB8aurVcAxR&_nc_ohc=2sWvNekZ0dIQ7kNvgEBP-5k&_nc_ht=scontent.fceb2-1.fna&oh=00_AYDMO4JcQyV6IgwSe44-c5SedK2IAzpcL93ejFlw0M4opw&oe=66D2D110" width="250" height="250">
+<div>
+    <img src="https://scontent.fceb2-1.fna.fbcdn.net/v/t39.30808-6/381684429_1691347238015083_6464551333504515651_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeF9wkciO_qmzhm74zjvT8kB1kIFYyxBIePWQgVjLEEh42Q1V8lr3_2r0WN9vhdR8J8LEeqxwVKmXFB8aurVcAxR&_nc_ohc=2sWvNekZ0dIQ7kNvgEBP-5k&_nc_ht=scontent.fceb2-1.fna&oh=00_AYDMO4JcQyV6IgwSe44-c5SedK2IAzpcL93ejFlw0M4opw&oe=66D2D110" width="250" height="250">
 </div>
 
   <p> 
-      Hi! I'm Jefferson Ganacias. Most people call me Jeff but I prefer Jep instead, just for a bit of difference. <br>
+      Hi! I'm Jefferson Ganacias. Most people call me Jeff but I prefer Jep instead, just for a bit of difference.
       I'm currently figuring things out to build a fulfilling future. Typically writing my 'Once Upon A Slice of Life'. 🙌🏻
   </p>
   
-<h2> Get To KNow Me </h2>
+<h2> [ Get To KNow Me ]</h2>
 
   <p>
       I'm  currently a junior student at West Visayas Stae University -  Main Campus, taking up a Bachelor's degree in Information Systems major in Business Applications Development.
@@ -23,7 +25,7 @@
       And one thing that keeps me living is "to achieve my purposse and be fulfilled." ✨
   </p>
   
-<h2> Simple Facts About Me </h2>
+<h2> [ Simple Facts About Me ] </h2>
 
   <p>
       <ul>
@@ -36,16 +38,16 @@
       </ul>
   </p>
 
-<h2> Platform Stats </h2>
+<h2> [ Platform Stats ] </h2>
 
-  ![statsbox](https://github-readme-stats.vercel.app/api?username=jaepnee&show_icons=true&theme=gruvbox)
-  ![statsbox](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
+  ![statsbox](https://github-readme-stats.vercel.app/api?username=jaepnee&show_icons=true&theme=flag-india)
+  ![statsbox](https://streak-stats.demolab.com?user=ForrestKnight&theme=flag-india&border_radius=4.5)
 
-<h2> Links </h2>
+<h2> [ Links ] </h2>
+
    <ul>
      <li>
-      <a href="https://linktr.ee/jaepnee?fbclid=IwY2xjawE57_xleHRuA2FlbQIxMAABHfmOnDsL59p-PsG2vEnxZLSY2f8Hi9Wn7hwACD-5tJ5-VZSQs7MoK1jMdA_aem_RLYxho6Ad2c5XdNkggl2ww"> My Linktree 
-    📱</a>
+         <a href="https://linktr.ee/jaepnee?fbclid=IwY2xjawE57_xleHRuA2FlbQIxMAABHfmOnDsL59p-PsG2vEnxZLSY2f8Hi9Wn7hwACD-5tJ5-VZSQs7MoK1jMdA_aem_RLYxho6Ad2c5XdNkggl2ww"> My Linktree 📱</a>
      </li>
    <ul>
 
