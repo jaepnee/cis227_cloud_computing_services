@@ -1,5 +1,7 @@
 <h1> JEP'S PROFILE 🧚🏻‍♂️ </h1>
 
+<img src="https://images.pexels.com/photos/247600/pexels-photo-247600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="1500" height="330">
+
 <h2> About Me </h2>
 
 <div >
@@ -36,8 +38,8 @@
 
 <h2> Platform Stats </h2>
 
-  ![jaepnees](https://github-readme-stats.vercel.app/api?username=jaepnee&show_icons=true&theme=gruvbox)
-  ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
+  ![statsbox](https://github-readme-stats.vercel.app/api?username=jaepnee&show_icons=true&theme=gruvbox)
+  ![statsbox](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
 
 <h2> Links </h2>
    <ul>
