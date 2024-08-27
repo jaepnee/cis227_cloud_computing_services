@@ -1,7 +1,7 @@
 <h1> JEP'S PROFILE 🧚🏻‍♂️ </h1>
 
 <div>
-    <img src="https://www.pexels.com/photo/different-species-of-dinosaur-plastic-toy-on-a-white-surface-8014600/" width="250" height="250">
+    <img src="https://www.pexels.com/photo/different-species-of-dinosaur-plastic-toy-on-a-white-surface-8014600/" width="1500" height="350">
 </div>
    
 <h2> [ About Me ] </h2>
